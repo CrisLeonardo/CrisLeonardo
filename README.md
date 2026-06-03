@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Leonardo%20Cristóbal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Augmented%20Engineer&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Leonardo%20Zepeda&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Augmented%20Engineer&descSize=18&descAlignY=58&descColor=7dd3fc&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/CrisLeonardo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/cristopher-leonardo-zepeda-esquivel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:tucorreo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:crisleonardo100@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Remote-✅%20Available-22c55e?style=for-the-badge"/>
   &nbsp;
@@ -188,11 +188,11 @@ const leonardo = {
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/CrisLeonardo">
+  <a href="https://www.linkedin.com/in/cristopher-leonardo-zepeda-esquivel">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:tucorreo@gmail.com">
+  <a href="mailto:crisleonardo100@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
